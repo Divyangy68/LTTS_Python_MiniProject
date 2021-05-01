@@ -22,6 +22,7 @@
  -	Mutagen Dependencies
  -	Pygame Dependencies
 
+
 # Requirements
 
 ## FUNCTIONAL REQUIREMENTS
@@ -57,3 +58,11 @@
  - 24 X 7 Availability will ensured by using an always Desktop app Service.
 ### Maintainability:
  - Modular System approach to be used to update or replace system components quickly without incurring significant downtime losses 
+
+
+# Output
+![Output - 1:](OutputFile\1.png)
+![Output - 2:](OutputFile\2.png)
+![Output - 3:](OutputFile\3.png)
+![Output - 4:](OutputFile\4.png)
+
