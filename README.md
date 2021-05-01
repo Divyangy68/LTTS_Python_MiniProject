@@ -12,18 +12,20 @@
 ## ASSUMPTIONS AND DEPENDENCIES :
  - The proposed system has an python dependencies install on the client side. The product will be supported only by the below mentioned Operating System and Tools need to be installed. 
  - Supported Operating System : 
-    •	Windows
-    •	Linux
-    •	Mac 
+    -	Windows
+    -	Linux
+    -	Mac 
 
 ## Tools need to be Installed on Client Machine:
- •	Python 2.7 and Higher version
- •	Tkinter Dependencies
- •	Mutagen Dependencies
- •	Pygame Dependencies
+ -	Python 2.7 and Higher version
+ -	Tkinter Dependencies
+ -	Mutagen Dependencies
+ -	Pygame Dependencies
 
 # Requirements
+
 ## FUNCTIONAL REQUIREMENTS
+
 ### USER REQUIREMENTS : 
  - Select Song
  - Start, Stop, Pause, Forward
