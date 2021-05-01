@@ -61,8 +61,8 @@
 
 
 # Output
-![Output - 1:](OutputFile\1.png)
-![Output - 2:](OutputFile\2.png)
-![Output - 3:](OutputFile\3.png)
-![Output - 4:](OutputFile\4.png)
+![Output - 1:](OutputFile/1.png)
+![Output - 2:](OutputFile/2.png)
+![Output - 3:](OutputFile/3.png)
+![Output - 4:](OutputFile/4.png)
 
