@@ -1,4 +1,26 @@
 # Description
+## PROJECT PERSPECTIVE :
+ - The design of the software in this document follows the concept of providing the instant response in terms of playing the user selected song. Also the user start, stop, pause, forward and can also increase or decrease the volume and the duration so time will also been displayed.
+
+## PROJECT FUNCTIONALITIES / REQUIREMENTS :
+ 1.	Select Song
+ 2.	Start, Pause, Stop, Forward. 
+ 3.	Display the Total Duration and Current Duration of Song 
+ 4.	Volume Increase or Decrease 
+ 5.	Add or Delete song 
+
+## ASSUMPTIONS AND DEPENDENCIES :
+ - The proposed system has an python dependencies install on the client side. The product will be supported only by the below mentioned Operating System and Tools need to be installed. 
+ - Supported Operating System : 
+    •	Windows
+    •	Linux
+    •	Mac 
+
+## Tools need to be Installed on Client Machine:
+ •	Python 2.7 and Higher version
+ •	Tkinter Dependencies
+ •	Mutagen Dependencies
+ •	Pygame Dependencies
 
 # Requirements
 ## FUNCTIONAL REQUIREMENTS
@@ -8,7 +30,6 @@
  - Increase or Decrease volume  
  - Display Current and Total Duration 
  - Add or Delete song 
-
 
 ## DESIGN AND IMPLEMENTATION AND CONSTRAINTS
 ### Hardware Requirements:
@@ -25,6 +46,7 @@
  
 ### Constraints:
  - The Local database of music libraries needs to be having on Hosting Computer.
+ 
 
 ## NON-FUNCTIONAL REQUIREMENTS
 ### Authorization:
