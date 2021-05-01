@@ -1,6 +1,7 @@
 # Description
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/98cbef0414b1473f83d58d6f28723467)](https://app.codacy.com/gh/Divyangy68/LTTS_Python_MiniProject?utm_source=github.com&utm_medium=referral&utm_content=Divyangy68/LTTS_Python_MiniProject&utm_campaign=Badge_Grade_Settings)
+[![Contribution Check - Git Inspector](https://github.com/Divyangy68/LTTS_Python_MiniProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Divyangy68/LTTS_Python_MiniProject/actions/workflows/gitinspector.yml)
 
 ## PROJECT PERSPECTIVE :
  - The design of the software in this document follows the concept of providing the instant response in terms of playing the user selected song. Also the user start, stop, pause, forward and can also increase or decrease the volume and the duration so time will also been displayed.
