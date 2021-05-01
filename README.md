@@ -23,8 +23,9 @@
 ## Tools need to be Installed on Client Machine:
  -	Python 2.7 and Higher version
  -	Tkinter Dependencies
- -	Mutagen Dependencies
- -	Pygame Dependencies
+ -	Ttkthemes Dependencies : pip install ttkthemes
+ -	Mutagen Dependencies : pip install mutagen
+ -	Pygame Dependencies : pip install pygame
 
 
 # Requirements
